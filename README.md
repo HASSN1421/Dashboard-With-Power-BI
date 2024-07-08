@@ -1,6 +1,5 @@
 # Project Title
 
-A brief description of what this project does and who it's for
 
 # Salaries of Data field employees
 ## Problem Statement
